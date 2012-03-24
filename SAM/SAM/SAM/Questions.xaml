@@ -1,0 +1,39 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="SAM.Questions"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <TextBlock x:Name="ApplicationTitle" Text="SAM" Style="{StaticResource PhoneTextNormalStyle}" FlowDirection="RightToLeft" />
+        <TextBlock x:Name="PageTitle" Text="Step One" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="59" TextAlignment="Center" FlowDirection="LeftToRight" />
+        <Button Content="Next" Click="Button_Click" FontSize="30" Margin="134,679,152,9" />
+        <RadioButton Content="Female" Height="72" HorizontalAlignment="Left" Margin="256,153,0,0" Name="Male" VerticalAlignment="Top" />
+        <RadioButton Content="Male" Height="72" HorizontalAlignment="Left" Margin="87,153,0,0" Name="Female" VerticalAlignment="Top" />
+        <Slider Height="84" HorizontalAlignment="Left" Margin="33,280,0,0" Name="slider1" VerticalAlignment="Top" Width="413" />
+    </Grid>
+
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton x:Name="appbar_button1" IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton x:Name="appbar_button2" IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem x:Name="menuItem1" Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem x:Name="menuItem2" Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+    
+</phone:PhoneApplicationPage>

@@ -1,0 +1,17 @@
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\obj\Debug\App.g.i.cs
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\obj\Debug\GamePage.g.i.cs
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\obj\Debug\MainPage.g.i.cs
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\obj\Debug\SlXnaApp3.g.resources
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\Bin\Debug\ApplicationIcon.png
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\Bin\Debug\Background.png
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\Bin\Debug\SlXnaApp3.dll
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\Bin\Debug\SlXnaApp3.pdb
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\Bin\Debug\AppManifest.xaml
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\Bin\Debug\SlXnaApp3.xap
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\Bin\Debug\SlXnaApp3Lib.dll
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\Bin\Debug\SlXnaApp3Lib.pdb
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\obj\Debug\SlXnaApp3.dll
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\obj\Debug\SlXnaApp3.pdb
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\obj\Debug\XapCacheFile.xml
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3\Bin\Debug\Content\teeworld.xnb

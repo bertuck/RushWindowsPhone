@@ -1,0 +1,7 @@
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3Lib\bin\Windows Phone\Debug\SlXnaApp3Lib.dll
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3Lib\bin\Windows Phone\Debug\SlXnaApp3Lib.pdb
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3Lib\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3Lib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3Lib\obj\Windows Phone\Debug\SlXnaApp3Lib.dll
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3Lib\obj\Windows Phone\Debug\SlXnaApp3Lib.pdb
+C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3Lib\bin\Windows Phone\Debug\Content\teeworld.xnb
