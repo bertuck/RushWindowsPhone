@@ -7,8 +7,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAMLib\bin\Windows Phone\Debug\Content\teeworld.xnb</Output>
+      <Output>C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLib\bin\Windows Phone\Debug\Content\teeworld.xnb</Output>
       <Time>2012-03-23T19:06:40.1572808+01:00</Time>
+    </Item>
+    <Item>
+      <Source>biere.png</Source>
+      <Name>biere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLib\bin\Windows Phone\Debug\Content\biere.xnb</Output>
+      <Time>2012-03-24T12:24:37.7734799+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -17,10 +26,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAMLibContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAMLib\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAMLib\obj\Windows Phone\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAMLib\bin\Windows Phone\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLibContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLib\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLib\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLib\bin\Windows Phone\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

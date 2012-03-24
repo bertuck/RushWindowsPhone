@@ -15,13 +15,22 @@
     shell:SystemTray.IsVisible="True">
 
     <!--LayoutRoot is the root grid where all page content is placed-->
-    <Grid x:Name="LayoutRoot" Background="Transparent">
+    <Grid x:Name="LayoutRoot">
         <TextBlock x:Name="ApplicationTitle" Text="SAM" Style="{StaticResource PhoneTextNormalStyle}" FlowDirection="RightToLeft" />
         <TextBlock x:Name="PageTitle" Text="Step One" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="59" TextAlignment="Center" FlowDirection="LeftToRight" />
         <Button Content="Next" Click="Button_Click" FontSize="30" Margin="134,679,152,9" />
-        <RadioButton Content="Female" Height="72" HorizontalAlignment="Left" Margin="256,153,0,0" Name="Male" VerticalAlignment="Top" />
-        <RadioButton Content="Male" Height="72" HorizontalAlignment="Left" Margin="87,153,0,0" Name="Female" VerticalAlignment="Top" />
-        <Slider Height="84" HorizontalAlignment="Left" Margin="33,280,0,0" Name="slider1" VerticalAlignment="Top" Width="413" />
+        <RadioButton Content="Femme" Height="72" HorizontalAlignment="Left" Margin="256,153,0,0" Name="Male" VerticalAlignment="Top" />
+        <RadioButton Content="Homme" Height="72" HorizontalAlignment="Left" Margin="87,153,0,0" Name="Female" VerticalAlignment="Top" />
+        <Slider Height="90" HorizontalAlignment="Left" Margin="37,250,0,0" Name="slider1" VerticalAlignment="Top" Width="413" Value="3" />
+        <TextBox Height="72" HorizontalAlignment="Left" Margin="294,455,0,0" Name="textBox1" Text="60" VerticalAlignment="Top" Width="81" TextChanged="textBox1_TextChanged" />
+        <TextBlock Height="39" HorizontalAlignment="Right" Margin="0,471,58,0" Name="textBlock1" Text="Kg" VerticalAlignment="Top" FontSize="28" Width="45" />
+        <TextBlock Height="46" HorizontalAlignment="Left" Margin="42,470,0,0" Name="textBlock2" Text="Rentré votre poids : " VerticalAlignment="Top" FontSize="28" Width="258" />
+        <TextBlock FontSize="28" Height="46" HorizontalAlignment="Left" Margin="43,549,0,0" Name="textBlock3" Text="Rentré votre taille : " VerticalAlignment="Top" Width="258" />
+        <TextBlock Height="30" HorizontalAlignment="Left" Margin="153,419,0,0" Name="textBlock4" Text="3 verres consomés" VerticalAlignment="Top" Width="177" />
+        <Image Height="103" HorizontalAlignment="Left" Margin="44,332,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="61" Source="/SAM;component/images/biere2.png" />
+        <Grid.Background>
+            <ImageBrush ImageSource="/SAM;component/fond_1_1.jpg" />
+        </Grid.Background>
     </Grid>
 
     <!--Sample code showing usage of ApplicationBar-->

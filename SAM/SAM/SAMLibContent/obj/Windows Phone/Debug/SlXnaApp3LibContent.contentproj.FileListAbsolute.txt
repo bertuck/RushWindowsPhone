@@ -1,2 +1,3 @@
 C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SlXnaApp3\SlXnaApp3\SlXnaApp3LibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
 C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAMLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

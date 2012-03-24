@@ -1,11 +1,12 @@
-﻿<xapCache source="C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAM\Bin\Debug\SAM.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="24/03/2012 01:40:08">
-  <file source="C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAM\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="24/03/2012 00:00:46" />
-  <file source="C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAM\Background.png" archivePath="Background.png" lastWriteTime="23/03/2012 17:23:37" />
-  <file source="C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAM\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="23/03/2012 17:23:37" />
-  <file source="C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAM\obj\Debug\SAM.dll" archivePath="SAM.dll" lastWriteTime="24/03/2012 01:40:07" />
+﻿<xapCache source="C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\SAM.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="24/03/2012 12:42:41">
+  <file source="C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="24/03/2012 00:00:46" />
+  <file source="C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Background.png" archivePath="Background.png" lastWriteTime="23/03/2012 17:23:37" />
+  <file source="C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="23/03/2012 17:23:37" />
+  <file source="C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\obj\Debug\SAM.dll" archivePath="SAM.dll" lastWriteTime="24/03/2012 12:42:40" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="15/09/2011 16:36:26" />
-  <file source="C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAMLib\bin\Windows Phone\Debug\SAMLib.dll" archivePath="SAMLib.dll" lastWriteTime="24/03/2012 00:10:04" />
-  <file source="C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAM\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="23/03/2012 17:23:37" />
-  <file source="C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAM\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="24/03/2012 00:00:46" />
-  <file source="C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAM\Bin\Debug\Content\teeworld.xnb" archivePath="Content\teeworld.xnb" lastWriteTime="24/03/2012 00:10:03" />
+  <file source="C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLib\bin\Windows Phone\Debug\SAMLib.dll" archivePath="SAMLib.dll" lastWriteTime="24/03/2012 00:10:04" />
+  <file source="C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="23/03/2012 17:23:37" />
+  <file source="C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="24/03/2012 00:00:46" />
+  <file source="C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\Content\teeworld.xnb" archivePath="Content\teeworld.xnb" lastWriteTime="24/03/2012 12:32:40" />
+  <file source="C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\Content\biere.xnb" archivePath="Content\biere.xnb" lastWriteTime="24/03/2012 12:32:40" />
 </xapCache>

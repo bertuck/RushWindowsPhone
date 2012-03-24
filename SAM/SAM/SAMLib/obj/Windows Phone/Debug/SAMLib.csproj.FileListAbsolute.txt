@@ -11,3 +11,11 @@ C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAMLib\obj\Windo
 C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAMLib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAMLib\obj\Windows Phone\Debug\SAMLib.dll
 C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAMLib\obj\Windows Phone\Debug\SAMLib.pdb
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLib\bin\Windows Phone\Debug\Content\teeworld.xnb
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLib\bin\Windows Phone\Debug\Content\biere.xnb
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLib\bin\Windows Phone\Debug\SAMLib.dll
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLib\bin\Windows Phone\Debug\SAMLib.pdb
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLib\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLib\obj\Windows Phone\Debug\SAMLib.dll
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAMLib\obj\Windows Phone\Debug\SAMLib.pdb

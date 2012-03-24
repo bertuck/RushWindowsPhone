@@ -55,3 +55,24 @@ C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAM\obj\Debug\SA
 C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAM\obj\Debug\SAM.pdb
 C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAM\obj\Debug\XapCacheFile.xml
 C:\Users\bertuc_k\Documents\Visual Studio 2010\Projects\SAM\SAM\SAM\obj\Debug\Questions.g.i.cs
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\ApplicationIcon.png
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\Background.png
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\Content\teeworld.xnb
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\Content\biere.xnb
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\SAM.dll
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\SAM.pdb
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\AppManifest.xaml
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\SAM.xap
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\SAMLib.dll
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\SAMLib.pdb
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\obj\Debug\App.g.i.cs
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\obj\Debug\GamePage.g.i.cs
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\obj\Debug\MainPage.g.i.cs
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\obj\Debug\Questions.g.i.cs
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\obj\Debug\SAM.g.resources
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\obj\Debug\SAM.dll
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\obj\Debug\SAM.pdb
+C:\Users\bertuc_k\Documents\Work\RushWindowsPhone\SAM\SAM\SAM\obj\Debug\XapCacheFile.xml

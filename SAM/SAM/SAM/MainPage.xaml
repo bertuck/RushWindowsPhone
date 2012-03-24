@@ -14,7 +14,7 @@
     shell:SystemTray.IsVisible="False">
 
     <!--LayoutRoot is the root grid where all page content is placed-->
-    <Grid x:Name="LayoutRoot" Background="Transparent">
+    <Grid x:Name="LayoutRoot">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
@@ -23,7 +23,7 @@
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
             <TextBlock x:Name="ApplicationTitle" Text="SAM" Style="{StaticResource PhoneTextNormalStyle}" FlowDirection="RightToLeft" />
-            <TextBlock x:Name="PageTitle" Text="Welcome to SAM" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="59" TextAlignment="Left" />
+            <TextBlock x:Name="PageTitle" Text="Welcome to SAM" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="59" TextAlignment="Left" Foreground="Black" FontWeight="Bold" FontStyle="Normal" TextWrapping="NoWrap" FontStretch="Condensed" />
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
@@ -31,17 +31,20 @@
             
             <!--Create a single button to navigate to the second page which is rendered with the XNA Framework-->
             <Button Content="Start" Click="Button_Click" FontSize="30" Margin="109,528,124,48" />
-            <TextBlock HorizontalAlignment="Left" Margin="10,50,0,576" Name="textBlock1" Text="SAM évalue votre taux approximatif dans" FontSize="24" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="41,92,0,0" Name="textBlock4" Text="le sang. Vous allez subir une suite de" VerticalAlignment="Top" FontSize="23" Width="522" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="17,135,0,0" Name="textBlock5" Text="questions ainsi qu'une suite de mini-jeux." VerticalAlignment="Top" FontSize="23" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="46,179,0,0" Name="textBlock6" Text="Ceci n'est qu'à titre indicatif et peut" VerticalAlignment="Top" FontSize="23" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="18,221,0,0" Name="textBlock7" Text="donner une idée votre état mais vous ne" VerticalAlignment="Top" FontSize="23" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="11,264,0,0" Name="textBlock8" Text="pouvez pas vous fier aux résultats obtenus" VerticalAlignment="Top" FontSize="23" />
-            <TextBlock Height="35" HorizontalAlignment="Left" Margin="7,305,0,0" Name="textBlock9" Text="pour déterminer votre capacité à conduire !" VerticalAlignment="Top" FontSize="23" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="93,0,0,279" Name="textBlock10" Text="Si vous n'êtes pas sûrs de " VerticalAlignment="Bottom" FontSize="23" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="105,387,0,0" Name="textBlock11" Text="votre taux d'alcoolémie," VerticalAlignment="Top" FontSize="23" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="107,428,0,0" Name="textBlock12" Text=" ne conduisez pas!!!!" VerticalAlignment="Top" FontSize="25" />
+            <TextBlock HorizontalAlignment="Left" Margin="10,50,0,576" Name="textBlock1" Text="SAM évalue votre taux approximatif dans" FontSize="24" FontWeight="Normal"><TextBlock.Foreground><RadialGradientBrush><GradientStop Color="Black" Offset="0" /><GradientStop Color="#FFAC0000" Offset="0.522" /></RadialGradientBrush></TextBlock.Foreground></TextBlock>
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="41,92,0,0" Name="textBlock4" Text="le sang. Vous allez subir une suite de" VerticalAlignment="Top" FontSize="23" Width="522" FontWeight="Normal"><TextBlock.Foreground><RadialGradientBrush><GradientStop Color="Black" Offset="0" /><GradientStop Color="#FFAC0000" Offset="0.522" /></RadialGradientBrush></TextBlock.Foreground></TextBlock>
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="17,135,0,0" Name="textBlock5" Text="questions ainsi qu'une suite de mini-jeux." VerticalAlignment="Top" FontSize="23" FontWeight="Normal"><TextBlock.Foreground><RadialGradientBrush><GradientStop Color="Black" Offset="0" /><GradientStop Color="#FFAC0000" Offset="0.522" /></RadialGradientBrush></TextBlock.Foreground></TextBlock>
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="46,179,0,0" Name="textBlock6" Text="Ceci n'est qu'à titre indicatif et peut" VerticalAlignment="Top" FontSize="23" FontWeight="Normal"><TextBlock.Foreground><RadialGradientBrush><GradientStop Color="Black" Offset="0" /><GradientStop Color="#FFAC0000" Offset="0.522" /></RadialGradientBrush></TextBlock.Foreground></TextBlock>
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="18,221,0,0" Name="textBlock7" Text="donner une idée votre état mais vous ne" VerticalAlignment="Top" FontSize="23" FontWeight="Normal"><TextBlock.Foreground><RadialGradientBrush><GradientStop Color="Black" Offset="0" /><GradientStop Color="#FFAC0000" Offset="0.522" /></RadialGradientBrush></TextBlock.Foreground></TextBlock>
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="11,264,0,0" Name="textBlock8" Text="pouvez pas vous fier aux résultats obtenus" VerticalAlignment="Top" FontSize="23" FontWeight="Normal"><TextBlock.Foreground><RadialGradientBrush><GradientStop Color="Black" Offset="0" /><GradientStop Color="#FFAC0000" Offset="0.522" /></RadialGradientBrush></TextBlock.Foreground></TextBlock>
+            <TextBlock Height="35" HorizontalAlignment="Left" Margin="7,305,0,0" Name="textBlock9" Text="pour déterminer votre capacité à conduire !" VerticalAlignment="Top" FontSize="23" FontWeight="Normal"><TextBlock.Foreground><RadialGradientBrush><GradientStop Color="Black" Offset="0" /><GradientStop Color="#FFAC0000" Offset="0.522" /></RadialGradientBrush></TextBlock.Foreground></TextBlock>
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="93,0,0,279" Name="textBlock10" Text="Si vous n'êtes pas sûrs de " VerticalAlignment="Bottom" FontSize="23" FontWeight="Normal"><TextBlock.Foreground><RadialGradientBrush><GradientStop Color="Black" Offset="0" /><GradientStop Color="#FFAC0000" Offset="0.522" /></RadialGradientBrush></TextBlock.Foreground></TextBlock>
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="105,387,0,0" Name="textBlock11" Text="votre taux d'alcoolémie," VerticalAlignment="Top" FontSize="23" FontWeight="Normal"><TextBlock.Foreground><RadialGradientBrush><GradientStop Color="Black" Offset="0" /><GradientStop Color="#FFAC0000" Offset="0.522" /></RadialGradientBrush></TextBlock.Foreground></TextBlock>
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="107,428,0,0" Name="textBlock12" Text=" ne conduisez pas!!!!" VerticalAlignment="Top" FontSize="25" FontWeight="Normal"><TextBlock.Foreground><RadialGradientBrush><GradientStop Color="Black" Offset="0" /><GradientStop Color="#FFAC0000" Offset="0.522" /></RadialGradientBrush></TextBlock.Foreground></TextBlock>
         </Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/SAM;component/fond_1_1.jpg" />
+        </Grid.Background>
     </Grid>
  
     <!--Sample code showing usage of ApplicationBar-->

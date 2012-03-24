@@ -115,6 +115,11 @@
     <Content Include="Background.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Resource Include="images\biere.png" />
+    <Resource Include="images\shooter.png" />
+    <Resource Include="images\biere1.png" />
+    <Resource Include="images\biere2.png" />
+    <Resource Include="fond_1_1.jpg" />
     <Content Include="SplashScreenImage.jpg" />
   </ItemGroup>
   <ItemGroup>

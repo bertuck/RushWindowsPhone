@@ -24,5 +24,10 @@ namespace SAM
         {
             NavigationService.Navigate(new Uri("/GamePage.xaml", UriKind.Relative));
         }
+
+        private void textBox1_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
